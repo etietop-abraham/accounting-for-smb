@@ -3,7 +3,7 @@
 - Record transactions
 - Analyze financial statements
 - Forecast and valuate your business model
-**Todo**
+- **Todo**
 - [x] Setup Git
 - [ ] Features
 - [ ] Backend on Sheets
